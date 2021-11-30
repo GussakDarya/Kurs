@@ -1,3 +1,3 @@
 # Kurs
 Digital_humanities
-Das ist ein Satz mit \textbf{Fett}  und \textit{Kursiv}.
+Das ist ein Satz mit <strong>Fett</strong> und <em>Kursiv</em>. 
